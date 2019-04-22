@@ -1,0 +1,12 @@
+﻿@font-face {
+  font-family: 'Rajdhani';
+  font-style: normal;
+  font-weight: 500;
+  src: local('Rajdhani Medium'), local('Rajdhani-Medium'), url(s/rajdhani/v8/LDI2apCSOBg7S-QT7pb0EPOreeI.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Rajdhani';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Rajdhani Bold'), local('Rajdhani-Bold'), url(s/rajdhani/v8/LDI2apCSOBg7S-QT7pa8FvOreeI.ttf) format('truetype');
+}
